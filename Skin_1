@@ -1,0 +1,58 @@
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+
+
+
+printf "\e[34m
+░█████╗░░█████╗░███████╗
+██╔══██╗██╔══██╗██╔════╝
+███████║██║░░╚═╝█████╗░░
+██╔══██║██║░░██╗██╔══╝░░
+██║░░██║╚█████╔╝███████╗
+╚═╝░░╚═╝░╚════╝░╚══════╝
+"
+printf " \e[34m
+████████╗███████╗██████╗░███╗░░░███╗██╗███╗░░██╗░█████╗░██╗░░░░░
+╚══██╔══╝██╔════╝██╔══██╗████╗░████║██║████╗░██║██╔══██╗██║░░░░░
+░░░██║░░░█████╗░░██████╔╝██╔████╔██║██║██╔██╗██║███████║██║░░░░░
+░░░██║░░░██╔══╝░░██╔══██╗██║╚██╔╝██║██║██║╚████║██╔══██║██║░░░░░
+░░░██║░░░███████╗██║░░██║██║░╚═╝░██║██║██║░╚███║██║░░██║███████╗
+░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚══════╝
+"
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "\n"
+printf "\e[34m ACE The Custom Terminal \e[0m\n"
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "                                                                                 "
+printf "\n"
+#You can remove from here to 
+google='https://github.com/IGmatthewbechard2/terminal_skin'
+orgname=
+gsearch=$google
+printf "\e[34m       [GET ACE AND MORE NOW AT]
+               |
+               |             |
+              \ /
+               ˅ "
+printf "                                                                                 "
+echo  "$orgname$gsearch "
+
+printf "
+      (YT) Out Of Style YT                                   
+                                  (IG) MatthewBechard2
+                                              
+                                                             (GitHub)github.com/IGmatthewbechard2"
